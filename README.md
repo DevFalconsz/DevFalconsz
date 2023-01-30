@@ -13,7 +13,7 @@
 <div>
   <p><i>Bio: Com uma paixão incansável por jogos e uma determinação inquebrantável para transformar seu sonho em realidade, este jovem talentoso é um programador de jogos altamente capacitado que usa suas habilidades para criar experiências imersivas e envolventes para jogadores de todo o mundo.
 
-Com um forte conhecimento da plataforma Unity e da linguagem C#, ele aprendeu a criar jogos incríveis e a enriquecer a vida dos jogadores com sua criatividade e paixão pelo que faz. Agora, ele está em busca de novas oportunidades para expandir seus horizontes e continuar a desenvolver sua carreira na indústria de jogos.
+Com um forte conhecimento da plataforma Unity e da linguagem C#, ele aprendeu a criar jogos e a enriquecer a vida dos jogadores com sua criatividade e paixão pelo que faz. Agora, ele está em busca de novas oportunidades para expandir seus horizontes e continuar a desenvolver sua carreira na indústria de jogos.
 
 Mas esse jovem não está apenas procurando por oportunidades para si mesmo - ele também é um defensor fervoroso da comunidade de jogos e acredita que todos merecem a chance de realizar seus sonhos de se tornarem programadores de jogos. Para ajudar a tornar isso uma realidade, ele dedicou parte de seu tempo livre ao desenvolvimento de uma Startup focada em jogos chamada Dev Gamer Initiative Project, que busca ajudar outros a alcançarem seu potencial na indústria de jogos.
 
