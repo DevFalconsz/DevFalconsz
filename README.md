@@ -36,6 +36,6 @@
 ![Snake animation](https://github.com/Vagetti-dev/snake-animation/blob/main/Snake%20Animation.svg)
   
 <h1>Contact for job:</h1>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
  <a href="https://www.linkedin.com/in/patrick-oliveira-vagetti-4743aa258/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 </div>
