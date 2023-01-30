@@ -16,4 +16,4 @@
   <p>Progammer of <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> for games only</p>
 </div>
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Vagetti-dev/snake-animation/blob/main/Snake%20Animation.svg)
