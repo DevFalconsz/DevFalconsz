@@ -13,8 +13,8 @@
   
 <p></p>
   
-<i><h1>Biography:</h1>
-<p>Com uma paixão incansável por jogos e uma determinação inquebrantável para transformar seu sonho em realidade, este jovem talentoso é um programador de jogos altamente capacitado que usa suas habilidades para criar experiências imersivas e envolventes para jogadores de todo o mundo.</p>
+<h1>Biography:</h1>
+<p><i>Com uma paixão incansável por jogos e uma determinação inquebrantável para transformar seu sonho em realidade, este jovem talentoso é um programador de jogos altamente capacitado que usa suas habilidades para criar experiências imersivas e envolventes para jogadores de todo o mundo.</p>
 
 <p>Com um forte conhecimento da plataforma Unity e da linguagem C#, ele aprendeu a criar jogos e a enriquecer a vida dos jogadores com sua criatividade e paixão pelo que faz. Agora, ele está em busca de novas oportunidades para expandir seus horizontes e continuar a desenvolver sua carreira na indústria de jogos.</p>
 
