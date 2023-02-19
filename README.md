@@ -25,9 +25,7 @@
 
 <p>With a heart full of passion and a brilliant mind, this young man is a dedicated leader and an unstoppable force in the gaming industry. His games are a testament to his unique ability and his dedication to developing immersive and engaging experiences for gamers around the world. He is excited to see what the future holds and is determined to continue bringing joy and entertainment to gamers all over the world.</i></p>
  
-<h1>Observation:</h1>
-  <b>Progammer of C# for games only.</b>
-<br></br>
+<h1>Icons Languages:</h1>
 
 <!--
  <div style="display: inline_block"><br>
@@ -39,8 +37,13 @@
  </div>
 -->
  
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,unity,blender" />
-  
+<h3>Web:</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,vercel,python" />
+<h3>Games:</h3>
+<img src="https://skillicons.dev/icons?i=cs,cpp,unity,vscode,blender,discord,github" />
+<h3>System:</h3>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
+
 ![Snake animation](https://github.com/Vagetti-dev/snake-animation/blob/main/Snake%20Animation.svg)
   
 <h1>Contact for job:</h1>
