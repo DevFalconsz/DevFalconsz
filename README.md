@@ -1,7 +1,10 @@
 <h1>Presentation:</h1>
-<p>- 👋 Hi, I'm @Vagetti-dev</p>
-<p>- 👀 I'm learning about game development.</p>
-<p>- 📫 Contact me by my email: oiusuario016@gmail.com</p>
+
+- `👋` Hi, I'm @Vagetti-dev
+
+- `👀` I'm learning about game development.
+
+- `📫` Contact me by my email: oiusuario016@gmail.com
 
 <br>
 
