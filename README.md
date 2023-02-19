@@ -27,7 +27,9 @@
  
 <h1>Observation:</h1>
   <b>Progammer of C# for games only.</b>
-  
+<br></br>
+
+<!--
  <div style="display: inline_block"><br>
    <img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,6 +37,9 @@
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
+-->
+ 
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,unity,blender" />
   
 ![Snake animation](https://github.com/Vagetti-dev/snake-animation/blob/main/Snake%20Animation.svg)
   
