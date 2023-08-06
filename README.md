@@ -54,6 +54,4 @@
 
 <h1>Animations:</h1>
 
-![Lelouch](https://github.com/Vagetti-dev/Gif/blob/main/giphy.gif)
-
-![Game](https://github.com/Vagetti-dev/Gif/blob/main/giphy%20(2).gif)
+![Game](https://github.com/Vagetti-dev/Gif/blob/main/giphy%20(1).gif)
