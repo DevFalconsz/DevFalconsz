@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Vagetti-dev">
+  <a href="https://github.com/DevFalconsz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vagetti-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagetti-dev&layout=compact&langs_count=99&theme=dark"/>
 </div>
