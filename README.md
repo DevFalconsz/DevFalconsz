@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=DevFalconsz)  
+
 <h1>Presentation:</h1>
 
 - `👋` Hi, I'm @Vagetti-dev
@@ -50,8 +52,17 @@
 <div style="display: inline_block" align="center">
  <a href="https://www.linkedin.com/in/patrick-oliveira-vagetti-4743aa258/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
   <a href="https://www.instagram.com/dpg.gameproduction/"><img src="https://skillicons.dev/icons?i=instagram" width="40"></a>
+  <a href="https://www.workana.com/freelancer/c62791f3d300697d0836c99606917000"><img src="https://i.imgur.com/aAGY5OE.png" width="40"></a>
 </div>
 
+<h1>Contributors: </h1>
+<h3>Mundo dos Isômeros: </h3>
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Mundo-dos-Isomeros)
+
+<h3>Trinova-Developers: </h3>
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Trinova-Developers)
 
 <h1>Animations:</h1>
 <div align="center">
