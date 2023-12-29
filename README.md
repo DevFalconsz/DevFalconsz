@@ -4,7 +4,7 @@
 
 - `👋` Hi, I'm @Vagetti-dev
 
-- `👀` I'm learning about game development.
+- `👀` I'm learning about game development and back-end programming.
 
 - `📫` Contact me by my email: oiusuario016@gmail.com
 
@@ -17,15 +17,6 @@
 </div>
   
 <p></p>
-  
-<h1>Biography:</h1>
-<p><i>With an unwavering passion for gaming and an unbreakable determination to turn his dream into a reality, this talented young man is a highly skilled game programmer who uses his abilities to create immersive and engaging experiences for gamers around the world.</p>
-
-<p>With a strong knowledge of the Unity platform and the C# language, he has learned to create games and enrich the lives of gamers with his creativity and passion for what he does. Now, he is seeking new opportunities to expand his horizons and continue to develop his career in the gaming industry.</p>
-
-<p>But this young man is not just looking for opportunities for himself - he is also a fervent advocate for the gaming community and believes that everyone deserves the chance to fulfill their dreams of becoming game programmers. To help make this a reality, he has dedicated some of his free time to developing a gaming-focused startup called Dev Gamer Initiative Project, which seeks to help others reach their potential in the gaming industry.</p>
-
-<p>With a heart full of passion and a brilliant mind, this young man is a dedicated leader and an unstoppable force in the gaming industry. His games are a testament to his unique ability and his dedication to developing immersive and engaging experiences for gamers around the world. He is excited to see what the future holds and is determined to continue bringing joy and entertainment to gamers all over the world.</i></p>
  
 <h1>Icons Languages:</h1>
 
