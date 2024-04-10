@@ -18,7 +18,7 @@
   
 <p></p>
  
-<h1>Languages and :</h1>
+<h1>Languages and Tools:</h1>
 
 <!--
  <div style="display: inline_block"><br>
@@ -33,7 +33,7 @@
 <h3>Web:</h3>
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,vercel,python" />
 <h3>Games:</h3>
-<img src="https://skillicons.dev/icons?i=visualstudio,cs,cpp,unity,blender,discord,godot" />
+<img src="https://skillicons.dev/icons?i=visualstudio,cs,cpp,unity,godot,blender,discord" />
 <h3>System:</h3>
 <img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,powershell,bash,cpp,java,github" />
 
