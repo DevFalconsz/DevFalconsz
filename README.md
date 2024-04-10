@@ -29,16 +29,29 @@
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
 -->
- 
-<h3>Web:</h3>
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,vercel,python" />
-<h3>Games:</h3>
-<img src="https://skillicons.dev/icons?i=visualstudio,cs,cpp,unity,godot,blender,discord" />
-<h3>System:</h3>
-<img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,powershell,bash,cpp,java,github" />
 
-![Snake animation](https://github.com/Vagetti-dev/snake-animation/blob/main/Snake%20Animation.svg)
-  
+<table>
+  <tr>
+    <td>
+      <h3>Web:</h3>
+      <img src="https://skillicons.dev/icons?i=vscode,html,css,js,vercel,python" />
+      <h3>Games:</h3>
+      <img src="https://skillicons.dev/icons?i=visualstudio,cs,cpp,unity,godot,blender,discord" />
+      <h3>System:</h3>
+      <img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,powershell,bash,cpp,java,github" />
+    </td>
+    <td>
+      <div>
+        <img src="https://64.media.tumblr.com/a9c53176e47b99f3e8bfd22e86d0bbd5/tumblr_inline_pazzcrmIlT1qafrh6_500.gifv" alt="Game">
+      </div>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/Vagetti-dev/snake-animation/blob/main/Snake%20Animation.svg" alt="Snake animation">
+</p>
+
 <h1>Contact for job:</h1>
 <div style="display: inline_block" align="center">
  <a href="https://www.linkedin.com/in/patrick-oliveira-vagetti-4743aa258/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
@@ -54,8 +67,3 @@
 <h3>Trinova-Developers: </h3>
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Trinova-Developers)
-
-<h1>Animations:</h1>
-<div align="center">
-  <img src="https://64.media.tumblr.com/a9c53176e47b99f3e8bfd22e86d0bbd5/tumblr_inline_pazzcrmIlT1qafrh6_500.gifv" alt="Game">
-</div>
