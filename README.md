@@ -1,4 +1,6 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=DevFalconsz)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevFalconsz" alt="Profile View Counter">
+</p>
 
 <h1>Presentation:</h1>
 
@@ -19,17 +21,6 @@
 <p></p>
  
 <h1>Languages and Tools:</h1>
-
-<!--
- <div style="display: inline_block"><br>
-   <img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- </div>
--->
-
 <table>
   <tr>
     <td>
@@ -60,10 +51,7 @@
 </div>
 
 <h1>Contributors: </h1>
-<h3>Mundo dos Isômeros: </h3>
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Mundo-dos-Isomeros)
-
-<h3>Trinova-Developers: </h3>
-
-![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Trinova-Developers)
+| Mundo dos Isômeros | Trinova-Developers |
+| --- | --- |
+| [![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Mundo-dos-Isomeros)](https://github.com/DevFalconsz/Mundo-dos-Isomeros) | [![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Trinova-Developers)](https://github.com/DevFalconsz/Trinova-Developers) |
