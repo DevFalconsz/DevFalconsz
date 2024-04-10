@@ -18,7 +18,7 @@
   
 <p></p>
  
-<h1>Icons Languages:</h1>
+<h1>Languages and :</h1>
 
 <!--
  <div style="display: inline_block"><br>
@@ -31,11 +31,11 @@
 -->
  
 <h3>Web:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,vercel,python" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,vercel,python" />
 <h3>Games:</h3>
-<img src="https://skillicons.dev/icons?i=cs,cpp,unity,vscode,blender,discord,github" />
+<img src="https://skillicons.dev/icons?i=visualstudio,cs,cpp,unity,blender,discord,godot" />
 <h3>System:</h3>
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,arduino, " />
+<img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,powershell,bash,cpp,java,github" />
 
 ![Snake animation](https://github.com/Vagetti-dev/snake-animation/blob/main/Snake%20Animation.svg)
   
