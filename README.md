@@ -2,7 +2,7 @@
 
 <h1>Presentation:</h1>
 
-- `👋` Hi, I'm @Vagetti-dev
+- `👋` Hi, I'm DevFalconsz (Patrick Oliveira Vagetti)
 
 - `👀` I'm learning about game development and back-end programming.
 
