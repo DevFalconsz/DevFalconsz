@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevFalconsz" alt="Profile View Counter">
-</p>
-
 <h1>Presentation:</h1>
 
 - `👋` Hi, I'm DevFalconsz (Patrick Oliveira Vagetti)
