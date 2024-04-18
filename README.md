@@ -9,11 +9,15 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/DevFalconsz">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevFalconsz&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/> 
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFalconsz&layout=compact&langs_count=99&theme=dark"/>
-</div>
   
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=DevFalconsz&show_icons=true&theme=dark&hide=issues&hide_title=false&card_width=490)
+</div>
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFalconsz&theme=dark&layout=compact&card_width=490&&langs_count=10)
+</div>
+    
 <p></p>
  
 <h1>Languages and Tools:</h1>
