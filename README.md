@@ -21,11 +21,11 @@
   <tr>
     <td>
       <h3>Web:</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,html,css,js,vercel,python" />
+      <img src="https://skillicons.dev/icons?i=vscode,html,css,js,vercel,github" />
       <h3>Games:</h3>
       <img src="https://skillicons.dev/icons?i=visualstudio,cs,cpp,unity,godot,blender,discord" />
       <h3>System:</h3>
-      <img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,powershell,bash,cpp,java,github" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,powershell,bash,cpp,java,python" />
     </td>
     <td>
       <div>
