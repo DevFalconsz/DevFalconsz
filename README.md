@@ -33,7 +33,7 @@
     </td>
     <td>
       <div>
-        <img src="https://64.media.tumblr.com/a9c53176e47b99f3e8bfd22e86d0bbd5/tumblr_inline_pazzcrmIlT1qafrh6_500.gifv" alt="Game">
+        <img src="https://i.imgur.com/TSoU53L.gif" alt="Game">
       </div>
     </td>
   </tr>
