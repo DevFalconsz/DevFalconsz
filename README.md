@@ -33,7 +33,7 @@
     </td>
     <td>
       <div>
-        <img src="https://i.imgur.com/TSoU53L.gif" alt="Game">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmppc3Z6YjZlcmszdnhybzc2YTUyc29uN3VtMno5cjlqNmttcGhpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDQj6tO9V3Fas7fkkP/giphy.gif" alt="GIF 1" class="gif" />
       </div>
     </td>
   </tr>
