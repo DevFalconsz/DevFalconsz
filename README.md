@@ -29,7 +29,7 @@
       <h3>Games:</h3>
       <img src="https://skillicons.dev/icons?i=visualstudio,cs,cpp,unity,godot,blender,discord" />
       <h3>System:</h3>
-      <img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,powershell,bash,cpp,java,python" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,windows,linux,flutter,dart,cpp,java,python" />
     </td>
     <td>
       <div>
