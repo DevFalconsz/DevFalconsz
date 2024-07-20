@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&textBg=false&descAlign=50&descAlignY=50&fontAlign=100&reversal=false&section=header&strokeWidth=100"/>
 <h1>Presentation:</h1>
 
 - `👋` Hi, I'm DevFalconsz (Patrick Oliveira Vagetti)
@@ -55,3 +56,4 @@
 | Mundo dos Isômeros | Trinova-Developers |
 | --- | --- |
 | [![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Mundo-dos-Isomeros)](https://github.com/DevFalconsz/Mundo-dos-Isomeros) | [![GitHub Contributors Image](https://contrib.rocks/image?repo=DevFalconsz/Trinova-Developers)](https://github.com/DevFalconsz/Trinova-Developers) |
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&textBg=false&descAlign=50&descAlignY=50&fontAlign=100&reversal=false&section=footer&strokeWidth=100"/>
